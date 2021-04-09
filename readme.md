@@ -8,7 +8,6 @@
 Пример результата:
 <font size="1"> Пытаемся вставить видео или гифку </font> 
 
- ![[schrod.mp4]]
- ![[schrod.gif]]
+ ![](schrod.gif)
 
 <font size="1"> [Список всех проектов](https://github.com/Drev0Z/index) </font> 
