@@ -1,10 +1,6 @@
-Решается уравнение Шредингера, описывающее временную эволюцию полновой функции.
+# Решается уравнение Шредингера, описывающее временную эволюцию полновой функции.
 
-<font size="1"> [Список всех проектов](https://github.com/Drev0Z/index) </font>
-
-<font size="2"> [Список всех проектов](https://github.com/Drev0Z/index) </font> 
-
-<font size="3"> [Список всех проектов](https://github.com/Drev0Z/index) </font> 
+[<sup>Список всех проектов</sup>](https://github.com/Drev0Z/index)
 
 [Блокнот с кодом](1D Schrodinger evolution.ipynb)
 
@@ -13,4 +9,4 @@
 
  ![](schrod.gif)
 
-<font size="1"> [Список всех проектов](https://github.com/Drev0Z/index) </font> 
+[<sup>Список всех проектов</sup>](https://github.com/Drev0Z/index)
